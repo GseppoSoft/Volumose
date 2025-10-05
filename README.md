@@ -2,7 +2,7 @@
 Terminal Based Volume Calculator written in C++
 
 
-Ladies and Gentlemen, I am proud to release ***Volumose*** the Second (Technically first but forgot to release) piece of software by the GseppoSoft group
+Ladies and Gentlemen, I am proud to release ***Volumose***, the Second (Technically first but forgot to release) piece of software by the GseppoSoft group
 unlike [PyleManager](https://github.com/GseppoSoft/PyleManager) Volumose is written in C++ and is aa terminal app with no GUI. It calculates based of course on Height, Width, and Length
 and is accurate (thanks to C++ knowing how math works) want to know the volume of a 2001 Toyota Camry? Input the internal dimensions of the car and you'll know just how much space you have for your Snapple Collection.
 
