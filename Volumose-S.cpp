@@ -1,10 +1,3 @@
-// v1.0.1 proposal by ANW
-// changelog:
-//   1. new print() and inputInt() methods
-//   2. using cin.ignore() to ignore the leftover `\n` character (safer)
-//   3. now uses the `std` namespace for cleaner code
-//   4. added comments
-
 #include <iostream>  // import iostream for access to the I/O streams
 using namespace std; // by using this statement the `std::` prefix is not needed
 
@@ -33,7 +26,7 @@ int main() {
 	length = inputInt("Length: ");          // get length from user
 	
 	// output
-	print("The Volume of the cuboid is ");            // print a string beforehand
+	print("The Volume of the item is ");            // print a string beforehand
 	print(to_string(height * width * length) + "\n"); // print result (bug fixed)
 
 	// exit the main method
